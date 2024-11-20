@@ -24,3 +24,4 @@ mvn clean install
 mvn spring-boot:run
 ```
 6. The application will be running at `http://localhost:8080`.
+7. You can import the Postman collection to test the API.
